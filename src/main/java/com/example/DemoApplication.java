@@ -1,12 +1,12 @@
-package com.prueba.pruebaJenkins;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PruebaJenkinsApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PruebaJenkinsApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 }

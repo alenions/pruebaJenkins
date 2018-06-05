@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>demo</name>
-	<description>Prueba para Integracion Continua.</description>
+	<description>Prueba para Integracion</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
